@@ -1,4 +1,4 @@
 1. PRZ Zones (S&D,OB,FVG,...) Along With Market Structure Concepts Like CHOCH,BOS,... And Detecting Valid Structures And Swing Points
 2. Using Multi Timeframe Analysis To Observe Structures In Different Dimensions And Refining Orderblocks And Inducement Points
 3. Using Fib Levels To Find Optimal Entry Points
-4. Using Candlestick Patterns And Momentum Candlesticks Along With Market Structure Shifts For Entry Confirmation
+4. Using Candlestick Patterns And Momentum Candlesticks Along With Market Structure Shifts For Entry Confirmation 
