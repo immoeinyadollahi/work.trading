@@ -1,0 +1,87 @@
+
+smart money channels = Cryptobo1,Mad Cryptoboi,SMC,Ardalan Safaie trader,trade_ams
+
+
+learning topics
+1. market structures
+	learn about valid CHOCH,BOS,MSB,MSS,FLIP,IDM
+	ساختار شناسی
+2. SMC concepts
+	learn about order block,Supply & Demand,imbalances or fvg ...
+	order block refining
+
+
+
+
+Ardalan Safaie trader
+1. swing structure (main structure),sub structures (swing structure internal structures in opposite direction of the trend or in corrective wave of the trend ),minor structure (swing structure internal structures in direction of the trend or in impulsive wave of the trend)
+2. always trade in minor structures and also in same direction of the trend
+3. we wait for sub structure CHOCH and enter in the trade in minor structure in same direction of the trend
+---------------------------------------------
+Cryptoboi
+1 - supply & demand
+2 - supply & demand - range market 1
+3 - supply & demand - range market 2
+4 - avoid stoploss & stophunt
+		1. larget stoploss
+		2. enter after liquidity grab candle
+		3. enter again after hitting stoploss just because of liquidity grab candle
+		4. in range market only enter at top or bottom of the range and not in middle zone of the ranging pattern
+5 - supply & demand - market structure CHOCH
+6 - order block
+		types of order blocks
+			1. long shadow of candles as order block
+			2. one weak candle or candle with opposite color before a engulfing or big body candle
+			
+		use multi timeframe analysis
+			1. use 4hr for major trend market structure
+			2. use 1hr for minor trend market structure
+			3. use 15min for finding order blocks or S&D , ...
+			4. use 5min for entry point and entry confirmation
+			
+			or
+			
+			1. use 4hr for trend market structure
+			2. use 1hr for finding order blocks or S&D , ...
+			3. use 15min for entry point and entry confirmation
+7 - ema , double top/bottom
+8 - market structure CHOCH + FLIP
+		setting targets based on most recent and nearest created swing highs and lows 
+		we can also hold the position until targets based on higher timeframes structures swing points
+		method 1 : book 50% of the position at first BOS or swing points and hold the position risk-free until higher timeframe swing points as next targets
+		method 2 : close the position at first BOS or swing points
+9 - fib levels as order blocks
+	use 0.78 , 0.88 fib levels as inducements points order blocks in trend continuation retracements
+	or using fib levels to confirm base of the movement which can be order block,S&D, ...
+10 - liquidity pools, smart money sl hunt and liquidity grab/sweep
+	smart money uses retailers liquidity by hunting their stop loss as fuel for moving the market , usually market movement after liquidity grab is significant because market made its fuel to move the market in its favour direction
+	
+
+
+Cryptoboi Selected Strategy
+1. PRZ Zones (S&D,OB,FVG,...) Along With Market Structure Concepts Like CHOCH,BOS,... And Detecting Valid Structures And Swing Points
+2. Using Multi Timeframe Analysis To Observe Structures In Different Dimensions And Refining Orderblocks And Inducement Points
+3. Using Fib Levels To Find Optimal Entry Points
+4. Using Candlestick Patterns And Momentum Candlesticks Along With Market Structure Breaks For Entry Confirmation
+
+
+
+
+
+
+
+
+
+
+نکات CHOCH و BOS
+برای ایجاد CHOCH در روند صعودی باید کف قبل از بالاترین سقفی که BOS ایجاد کرده باشد شکسته شود و در روند نزولی باید سقف قبل از پایین ترین کفی که BOS ایجاد کرده باشد.
+همچنین در روند صعوی کفی معتبر و اصلی در نظر گرفته میشود که سقفی که آن را ایجاد کرده است یک BOS یا CHOCH ایجاد کرده باشد و در روند نزولی سقفی معتبر و اصلی در نظر گرفته میشود که کفی که آن را ایجاد کرده است یک BOS یا CHOCH ایجاد کرده باشد.
+سایه ها به عنوان سقف و کف جدید در نظر گرفته میشوند ولی برای ایجاد BOS و CHOCH باید کلوز کندل مدنظر قرار گرفته شوند. اگر فقط سایه ایجاد شود با اینکه سقف و کف جدید ایجاد شده برای CHOCH و BOS باید کلوز کندل بالا یا زیر این سقف و کف های جدید ایجاد شده انجام شود تا شاهد BOS و CHOCH معتبر باشیم
+
+
+سوالات CHOCH و BOS
+1. آیا سایه ها باعث ایجاد CHOCH و BOS میشوند یا حتما کلوز کندل باید انجام شود؟ یا آیا این تغییرات ساختار به عنوان فیک در نظر گرفته می شوند؟
+2. سقف و کف های اصلی که در صورت شکسته شدن منجر به ایجاد CHOCH و BOS میشوند کدامند؟
+
+سوالات مهم ساختار شناسی
+1. کدام سقف و کف ها اصلی و کدامیک صرفا پاکسازی نقدینگی توسط اسمارت مانی است؟ چطور سقف و کف ها بنیادی و اصلی را شناسایی کنیم؟

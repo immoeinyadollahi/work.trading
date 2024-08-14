@@ -1,0 +1,24 @@
+3 phase system
+
+1. using back-tested,proven and rule-based strategy that works	(edge or long term positive result)
+	a repeatable system which can be used in everyday trading
+
+2. automation	(limit orders for entry,take profit,stop loss)
+	will fix discipline problems to follow strategy (solve emotions and psychology concerns)
+	will fix risk management
+	
+	process:
+		1. go to watchlist and find trading setups based on proven strategy (edge)
+		2. set automation orders (enter,tp,sl) 
+		3. walk away and let strategy do the work
+
+3. scaling
+	grow small account to large one with consistency
+
+
+
+
+the only 3 obstacle to become profitable
+1. strategy
+2. psychology
+3. risk management
