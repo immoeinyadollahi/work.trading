@@ -1,0 +1,2 @@
+1. Orderblock or S&D Zone indicates a smart money POI which their only difference is price formations or candlesticks pattern
+2. POI can be mitigated by simple touch (wick) and price doesn't have to go inside of POI zone in order to mitigate it

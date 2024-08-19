@@ -1,0 +1,8 @@
+find and use different types of setups and models
+1. AMD	(Accumulation,Manipulation,Distribution)					
+2. AIMD	(Accumulation,Inducement,Manipulation,Distribution)
+3. CERR	(Consolidation,Expansion,Retracement,Reversal)		=		RIMC			 
+4. CMERR	(Consolidation,Manipulation,Expansion,Retracement,Reversal)		=		RLIMC  
+5. CIMERR	(Consolidation,Inducement,Manipulation,Expansion,Retracement,Reversal)		
+6. RIMC	(Range,Initiation,Mitigation,Continuation)		=		CERR
+7. RLIMC	(Range,Liquidation,Initiation,Mitigation,Continuation)		=		CMERR

@@ -1,0 +1,1 @@
+1. reliable fvg should have atleast 50% unfilled gap,its not valid if the gap gets filled above 50%

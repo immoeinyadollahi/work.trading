@@ -1,0 +1,3 @@
+valid swing pullback potential properties:
+1. retraces atleast 50% of the current wave movement (discount/premium zone)	
+	otherwise it will not treated as a valid pullback within the swing and it will be considered as internal structure pullback

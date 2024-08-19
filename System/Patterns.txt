@@ -1,0 +1,3 @@
+draw scenarios based on these pattern
+1. QM	(Quasimodo Pattern) 			
+2. IQM	(Inverted Quasimodo Pattern)

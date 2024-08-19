@@ -1,0 +1,9 @@
+Daily Routine Consists Of:
+1. Working
+2. Sleeping
+3. GYM
+4. Bath
+...
+
+
+Each Part Can Also Have Specific Routine Inside Of It

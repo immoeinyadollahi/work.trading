@@ -1,0 +1,1 @@
+1. create fixed setup which should be executed on same time (session),same pair,same mechanics and rules,same market conditions,same system,plan,strategy -> one trade per day

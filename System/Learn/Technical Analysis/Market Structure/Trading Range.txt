@@ -1,0 +1,5 @@
+ways we can specify current trading range:
+1. box model (horizontal)
+2. box model (vertical)
+	in downtrend new high will be highest point between previous low and new created low after BOS/CHOCH
+	in uptrend new low will be lowest point between previous high and new created high after BOS/CHOCH

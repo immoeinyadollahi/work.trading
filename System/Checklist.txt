@@ -1,0 +1,18 @@
+Concepts:
+1. Valid HTF & MTF & LTF Swing Points
+2. Detecting Real CHOCH In LTF Structure
+
+
+
+Sources:
+1. Lewis Kelly Channel
+
+
+
+Testing:
+1. Forward Testing Watchlist With QM & IQM Pattern
+
+
+
+
+

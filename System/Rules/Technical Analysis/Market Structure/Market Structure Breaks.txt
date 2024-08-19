@@ -1,0 +1,1 @@
+for both CHOCH and BOS they will be valid only if candle close happens on previous swing high or low otherwise it will be treated as liquidity grab or sl hunt

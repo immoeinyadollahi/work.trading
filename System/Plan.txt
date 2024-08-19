@@ -1,0 +1,38 @@
+Timeframes
+15min (HTF),5min (MTF),1min (LTF)
+
+
+process:
+1. choose specific market from watchlist
+2. analyze market structure
+3. specify trading range correctly in HTF and draw/update trading range box
+4. drawing every possible scenarios within trading range,adding labels and tags for specific price action
+5. find and draw possible HTF trend reversal POI  above and below current market price if HTF trend is bullish find bearish POI  in higher prices and same for HTF bearish trend in lower prices
+6. wait for HTF OTE (min 0.78 - max 0.88) or HTF rejection POI with proper conditions
+7. switch to LTF and wait for valid market structure break
+8. set limit order on LTF OTE (min 0.78 - max 0.88) or LTF rejection POI with proper conditions
+9. enter the trade while consider proper risk management and set targets and stop loss
+
+
+
+
+warns:
+1. only enter into the trades based on pullbacks if price reached to HTF OTE (min 0.78 - max 0.88) fib levels of its movement in HTF structure (discount zone for long , premium zone for short) 
+2. for safer trades we can wait for FLIP pullback instead of CHOCH pullback since it actually confirms trend shift
+
+
+refining POI process:
+1. find POI in HTF
+2. refine it in MTF
+3. after getting confirmation in LTF use new created POI in LTF structure for more refiend level
+
+
+
+stop loss:
+1. stop losses can be set based on LTF OTE/POI also for safer trades we can set based on MTF or HTF OTE/POI but leads to slightly bigger stop losses and lower R:R ratio
+
+trade times:
+1. london session is good choice for regular trades because of low momentums and much less liquidity grab and stop hunt
+2. newyork session is good choice for fast scalping and getting fast target or stop loss because of high momentums and liquidity and has lots of liquidity grab and stop hunt
+
+

@@ -1,0 +1,21 @@
+procces recommendations:
+1. HTF objective	-> MTF POI -> LTF execution
+1. HTF structure and POI	-> MTF refined POI -> LTF execution
+2. HTF structure and POI -> LTF execution
+
+
+trade types:
+1. day trading  -> using only HTF as single timeframe analysis							(backup trade for cases when market doesn't respect to a pullback after structure shift in LTF)
+2. scalping 	    -> using multi timeframe analysis												(cases when market respects to a pullback after structure shift in LTF)
+3. fast scalp 	-> using only LTF as single timeframe analysis
+
+
+Multi Timeframe Analysis
+For Day Trading We Only Get Into The Positions If 4HR,1HR,15MIN,5MIN Timeframe Charts Have Same Structure Bias Or Orderflow
+For Scalp Trading We Only Get Into The Positions If 1HR,15MIN,5MIN Timeframe Charts Have Same Structure Bias Or Orderflow
+For Fast Scalp Trading We Only Get Into The Positions If 15MIN,5MIN,1MIN Timeframe Charts Have Same Structure Bias Or Orderflow
+
+
+single vs multi timeframe analysis:
+in single timeframe we wait for CHOCH or BOS pullback to reach our OTE/POI then go for next BOS
+in multi timeframe we observe LTF structures to know when HTF pullbacks will be finished then enter the trade after LTF structure CHOCH to go for next HTF BOS with higher rewards than single timeframe analysis

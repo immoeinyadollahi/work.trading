@@ -1,18 +1,27 @@
 
-smart money channels = Cryptobo1,Mad Cryptoboi,SMC,Ardalan Safaie trader,trade_ams
+
+
+smart money sources
+1. youtube
+	Cryptobo1,Mad Cryptoboi,SMC,Ardalan Safaie trader,trade_ams,فارکس منتورینگ,college spark,Lewis Kelly,NOT JUST A TRADE,Photon Trading,ETM FX
 
 
 learning topics
 1. market structures
 	learn about valid CHOCH,BOS,MSB,MSS,FLIP,IDM
-	ساختار شناسی
+	internal vs swing (external) market structure
 2. SMC concepts
-	learn about order block,Supply & Demand,imbalances or fvg ...
+	learn about order block,Supply & Demand,imbalances or fvg,liquidity ...
 	order block refining
+	internal vs external liquidity
+	extreme vs decisional (optional) POI
+3. setups and market maker patterns
+	personal RIMC method	->	NOT JUST A TRADE
 
-
-
-
+Lewis Kelly
+1. box model for trading range
+2. swing structure is HTF market structure and internal structure is LTF market structure
+---------------------------------------------
 Ardalan Safaie trader
 1. swing structure (main structure),sub structures (swing structure internal structures in opposite direction of the trend or in corrective wave of the trend ),minor structure (swing structure internal structures in direction of the trend or in impulsive wave of the trend)
 2. always trade in minor structures and also in same direction of the trend
@@ -20,15 +29,13 @@ Ardalan Safaie trader
 ---------------------------------------------
 Cryptoboi
 1 - supply & demand
-2 - supply & demand - range market 1
-3 - supply & demand - range market 2
-4 - avoid stoploss & stophunt
+2 - avoid stoploss & stophunt
 		1. larget stoploss
 		2. enter after liquidity grab candle
 		3. enter again after hitting stoploss just because of liquidity grab candle
 		4. in range market only enter at top or bottom of the range and not in middle zone of the ranging pattern
-5 - supply & demand - market structure CHOCH
-6 - order block
+3 - supply & demand - market structure CHOCH
+4 - order block
 		types of order blocks
 			1. long shadow of candles as order block
 			2. one weak candle or candle with opposite color before a engulfing or big body candle
@@ -37,35 +44,24 @@ Cryptoboi
 			1. use 4hr for major trend market structure
 			2. use 1hr for minor trend market structure
 			3. use 15min for finding order blocks or S&D , ...
-			4. use 5min for entry point and entry confirmation
+			4. use 5min for entry point and entry confirmation and also refining order block in pullback
 			
 			or
 			
 			1. use 4hr for trend market structure
 			2. use 1hr for finding order blocks or S&D , ...
 			3. use 15min for entry point and entry confirmation
-7 - ema , double top/bottom
-8 - market structure CHOCH + FLIP
+5 - market structure CHOCH + FLIP
 		setting targets based on most recent and nearest created swing highs and lows 
 		we can also hold the position until targets based on higher timeframes structures swing points
 		method 1 : book 50% of the position at first BOS or swing points and hold the position risk-free until higher timeframe swing points as next targets
 		method 2 : close the position at first BOS or swing points
-9 - fib levels as order blocks
+6 - fib levels as order blocks
 	use 0.78 , 0.88 fib levels as inducements points order blocks in trend continuation retracements
 	or using fib levels to confirm base of the movement which can be order block,S&D, ...
-10 - liquidity pools, smart money sl hunt and liquidity grab/sweep
+7 - liquidity pools, smart money sl hunt and liquidity grab/sweep
 	smart money uses retailers liquidity by hunting their stop loss as fuel for moving the market , usually market movement after liquidity grab is significant because market made its fuel to move the market in its favour direction
 	
-
-
-Cryptoboi Selected Strategy
-1. PRZ Zones (S&D,OB,FVG,...) Along With Market Structure Concepts Like CHOCH,BOS,... And Detecting Valid Structures And Swing Points
-2. Using Multi Timeframe Analysis To Observe Structures In Different Dimensions And Refining Orderblocks And Inducement Points
-3. Using Fib Levels To Find Optimal Entry Points
-4. Using Candlestick Patterns And Momentum Candlesticks Along With Market Structure Breaks For Entry Confirmation
-
-
-
 
 
 
