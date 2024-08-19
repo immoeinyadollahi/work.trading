@@ -1,0 +1,4 @@
+1. POI (S&D,OB,BASE...) Along With Market Structure Concepts Like CHOCH,BOS,... And Detecting Valid Structures And Swing Points
+2. Using Multi Timeframe Analysis To Observe Structures In Different Scales And Refining Orderblocks
+3. Using Fib Levels To Find Optimal Trade Entry
+4. Using Candlestick Patterns And Momentum Candlesticks Along With Market Structure Shifts For Entry Confirmation 
