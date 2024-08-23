@@ -1,0 +1,21 @@
+1. TLL -> trendline liquidity
+2. EQHL -> equal highs liquidity
+3. EQLL -> equal lows liquidity
+4.	OLHL	-> old high liquidity
+5.	OLLL -> old low liquidity
+6. SHLL -> session high low liquidity
+7. LQSL -> liquidity sweep liquidity
+8. ASHLL -> asia session high low liquidity
+9. SRL -> support resistance liquidity
+
+
+every where retailers stop losses or breakout/breakdown orders might be placed, there will be smart money target to sweep that liquidity
+logical highs and lows which traders put their stop losses will be treated as liquidity pool
+its all about understanding other traders phsychology like when to open/close positions and where to put stop losses
+
+
+order types:
+1. stop losses
+2. position force liquidation
+3. book partial profit or full close position in profit
+4. breakout/breakdown orders to open new position

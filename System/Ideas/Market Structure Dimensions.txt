@@ -1,0 +1,28 @@
+Types Of Market Structure:
+1. Swing			->	King
+2. Internal		->	Fullfills Swing Structure Objectives
+3. Fractal			->	Fullfills Internal Structure Objectives
+
+
+
+
+Swing 		-> CHOCH 		-> new swing trend
+Internal 	-> CHOCH 		-> signals start or end of Swing pullback
+Fractal		-> CHOCH		-> signals start or end of Internal pullback
+
+
+
+Structure Within Swing Trading Range = Internal Structure
+Structure Within Internal Trading Range = Fractal Structure
+
+
+
+
+recommended timeframes for these types:
+H1/M30 -> Swing
+M15/M5 -> Internal
+M5/M1 -> Fractal
+
+** timeframes for each type of structure can change in different situations and switched to other
+** CHOCH in Internal & Fractal timeframes may be signaled with delay or failure or even not happen at all and their objective structures may already started or ended their pullback
+	so we should switch timeframes for more reactive changes

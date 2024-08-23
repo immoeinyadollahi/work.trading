@@ -1,6 +1,12 @@
 procces recommendations:
-1. HTF objective	-> MTF POI -> LTF execution
+1. ETF objective	-> HTF POI -> LTF execution
+	Day Trading -> 1HR as ETF, 15MIN as HTF, 5MIN as MTF , 1MIN as LTF
+	use ETF only for potential trend reversal for HTF and only use HTF for market current directional bias to trade on with confirmation of LTF structure
+	we can also use ETF PD Array for more discretion to avoid trading against the current trend in HTF
+	also we use MTF only for refining HTF POI
+	
 1. HTF structure and POI	-> MTF refined POI -> LTF execution
+
 2. HTF structure and POI -> LTF execution
 
 
@@ -19,3 +25,5 @@ For Fast Scalp Trading We Only Get Into The Positions If 15MIN,5MIN,1MIN Timefra
 single vs multi timeframe analysis:
 in single timeframe we wait for CHOCH or BOS pullback to reach our OTE/POI then go for next BOS
 in multi timeframe we observe LTF structures to know when HTF pullbacks will be finished then enter the trade after LTF structure CHOCH to go for next HTF BOS with higher rewards than single timeframe analysis
+we use multi timeframe analysis to anticipate when a trend in one timeframe likely to shift,for example if want to know when H4 trend going to shift we can use D timeframe to look for price levels which can cause start/end of pullback in D timeframe
+lower timeframe CHOCH causes possible start/end of pullback in higher timeframe,also start/end of pullback in higher timeframe causes possible CHOCH in lower timeframe

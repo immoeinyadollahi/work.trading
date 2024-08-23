@@ -1,5 +1,5 @@
 Mechanical System:
-Create A Mechanical Rule-Based System With Edge Over The Market (Profitable System)
+Create A Mechanical Rule-Based And Repeatable System With Edge Over The Market (Backtested,Proven,Profitable System)
 System Includes Phases Such As:
 1. Technical Concepts
 2. 
@@ -12,3 +12,7 @@ System Includes Phases Such As:
 
 
 
+Consistency:
+All System Phases And Their Rules And Process Must Be Hardcoded And Fixed
+For Consistency We Should Repeat The Process Exactly The Same In Each Trading Day
+Like A Mechanical Robot All System Process Must Executed Identicaly In Daily Basis

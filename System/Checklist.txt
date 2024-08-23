@@ -1,18 +1,19 @@
+Focus:
+1. Market Structure
+2. Multi Timeframe Analysis
+
 Concepts:
-1. Valid HTF & MTF & LTF Swing Points
-2. Detecting Real CHOCH In LTF Structure
+1. Valid Pullbacks Which Leads To Structural Points In Different Timeframes
+
+2. Select Timeframe Pairs Which Related To Each Other And Completely Matched Together	[DONE]
+
+3. Determine Market Intraday/Daily Directional Bias And Find Current Trading Range To Work With
+
+	ideas:
+	1. ETF POI for HTF possible trend reversal + HTF immediate bias and POI + LTF entry model & confirmation
 
 
 
-Sources:
-1. Lewis Kelly Channel
-
-
-
-Testing:
-1. Forward Testing Watchlist With QM & IQM Pattern
-
-
-
-
-
+Mentors:
+1. Photon Trading
+1. Lewis Kelly 

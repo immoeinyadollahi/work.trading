@@ -6,4 +6,4 @@ Daily Routine Consists Of:
 ...
 
 
-Each Part Can Also Have Specific Routine Inside Of It
+Each Part Can Also Have Specific Routine And Rules Inside Of It

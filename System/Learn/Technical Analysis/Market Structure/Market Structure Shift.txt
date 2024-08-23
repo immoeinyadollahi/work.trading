@@ -2,5 +2,5 @@ early potential signs of market structure shift or trand reversal
 
 1. failed CHOCH or BOS also it can be in order (failed CHOCH then failed BOS
 2. CHOCH+ or opposite orderflow in fractal structure within trading range
-3. getting closer to HTF POI
+3. getting closer to ETF/HTF POI
 4. rejection after liquidity grab which leads to order block/s&d and fvg with strong momentum and sequence of rejection candles with proper bodies

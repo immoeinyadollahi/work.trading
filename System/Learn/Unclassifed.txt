@@ -3,7 +3,7 @@
 
 smart money sources
 1. youtube
-	Cryptobo1,Mad Cryptoboi,SMC,Ardalan Safaie trader,trade_ams,فارکس منتورینگ,college spark,Lewis Kelly,NOT JUST A TRADE,Photon Trading,ETM FX
+	Cryptobo1,Mad Cryptoboi,SMC,Ardalan Safaie trader,trade_ams,فارکس منتورینگ,college spark,Lewis Kelly,NOT JUST A TRADE,Photon Trading,ETM FX,SMC Gelo
 
 
 learning topics
@@ -54,9 +54,10 @@ Cryptoboi
 5 - market structure CHOCH + FLIP
 		setting targets based on most recent and nearest created swing highs and lows 
 		we can also hold the position until targets based on higher timeframes structures swing points
+		also liquidity pools in the way of market bias can safe targets
 		method 1 : book 50% of the position at first BOS or swing points and hold the position risk-free until higher timeframe swing points as next targets
 		method 2 : close the position at first BOS or swing points
-6 - fib levels as order blocks
+6 - fib levels as order blocks (OTE)
 	use 0.78 , 0.88 fib levels as inducements points order blocks in trend continuation retracements
 	or using fib levels to confirm base of the movement which can be order block,S&D, ...
 7 - liquidity pools, smart money sl hunt and liquidity grab/sweep
@@ -74,23 +75,26 @@ High Probability CHOCH
 
 
 HTF POI
-1. we can use previous trend flip zone as HTF POI
-2. HTF is one timeframe higher than entry timeframe
-	example: using 15min timeframe for finding POI then using 1min timeframe to analyze the structure for potential shifts
-	using 4hr with 15min,1hr with 5min,15min with 1min
-	we use HTF POI to find potential trend reversal level and using LTF to observe market structure in case of any shifts for entering into new trade
+HTF is timeframe higher than entry timeframe
+example: using 15min timeframe for finding POI then using 1min timeframe to analyze the structure for potential shifts
+using 4hr with 15min,1hr with 5min,15min with 1min
+we use HTF POI to find potential trend reversal level and using LTF to observe market structure in case of any shifts for entering into new trade
 	
-	
+
+ETF POI
+we use ETF POI for possible HTF trend reversal so we assume HTF trend will be shifted when getting close to ETF POI
+
 	
 Factors For Reliable & High Probability POI
 1. There is Imbalance/fvg created by the POI
-2. There is liquidity created before/after your POI (TLL, EQH, EQL)
+2. There is liquidity created before/after your POI (TLL, EQH, EQL,Asia Session HL)
 3. The POI is in premium or discount zone
 4. POI shouldn't be mitigated in the past even with simple pullback
 5. Extreme POI is more reliable than optional POI's because they are usually unmitigated and caused imbalances and liquidity so market can mitigate it and rebalance imbalances and grabbing their liquidity while doing same things on optional POI's in its way to extreme POI 
 6. in general, POI's which leads to successful and strong BOS or CHOCH have higher priority than other POI's. 
 	if extreme POI failed to cause strong BOS or CHOCH its still reliable but has lower priority than optional POI's which cause strong BOS or CHOCH, even if extreme POI have better conditions chances for market rejection from these optional levels are high and can be reliable
-
+7. poi's create a base or range
+8. flip zone
 
 
 POI To Enter The Trade
@@ -99,7 +103,8 @@ choose a fixed entry type for each trade from these options:
 	2. liquidity grab
 	3. extreme poi
 	4. fib based OTE
-	5. poi's led to BOS or CHOCH , base of the structure break
+	5. poi's led to BOS or CHOCH , base of the structure break movement
+	6. optional POI's with specific attributes
 
 ** don't get into the trade on each optional/extreme poi levels and only enter one poi level type which should be the same as your other trades**
 ** this can be tweaked later for improving the system **
@@ -110,20 +115,16 @@ Draw Basic Shematic Of Market Structure (Swing Points)
 Use Labels And Tags For Different Price Actions (LQ,IMB,BOS,CHOCH,OB,POI,LQ GRAB/SWEEP)
 
 
+Weak/Strong High & Low
+High/Low Which Caused To Break  Previous High/Low Treated As Strong High/Low
+High/Low Which Failed To Break Previous High/Low Treated As Weak High/Low
+
+
 Attentions:
 1. every BOS or CHOCH is not valid it may be sl hunt or liquidity grab. pay attention to smart money traps in these cases 
 2. you should always know current trading range in HTF and trading range box must be updated every time
 3. look at extreme POI's carefully to have valid imbalances and shouldn't already be mitigated otherwise it's better to rely on optional POI's than extreme ones
 4. treat extreme POI's as last defence level but market can also get rejected from optional ones 
-
-
-
-
-
-
-
-
-
 
 
 
@@ -143,4 +144,4 @@ Attentions:
 2. سقف و کف های اصلی که در صورت شکسته شدن منجر به ایجاد CHOCH و BOS میشوند کدامند؟
 
 سوالات مهم ساختار شناسی
-1. کدام سقف و کف ها اصلی و کدامیک صرفا پاکسازی نقدینگی توسط اسمارت مانی است؟ چطور سقف و کف ها بنیادی و اصلی را شناسایی کنیم؟
+1. کدام سقف و کف ها اصلی و کدامیک صرفا پاکسازی نقدینگی توسط اسمارت مانی است؟ چطور سقف و کف ها اصلی را شناسایی کنیم؟

@@ -1,0 +1,3 @@
+An imbalance is created when the order block creates such impulsive volume in the market that it throws off the equilibrium between buyers and sellers, forming a gap. This is referred to as imbalance or FVG
+
+These gaps act as a magnet for price to retrace to, in order to correct/rebalance the disturbance in market equilibrium.

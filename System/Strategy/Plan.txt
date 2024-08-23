@@ -1,13 +1,16 @@
 Timeframes
-15min (HTF),5min (MTF),1min (LTF)
+1. H4 (ETF | Extreme Timeframe) ->	Narrative
+2. M15 (HTF | High Timeframe)	-> Immediate Bias
+3. M5 (MTF | Medium Timeframe) -> Refinement
+4. M1 (LTF | Low Timeframe) -> Execution
 
 
-process:
-1. choose specific market from watchlist
-2. analyze market structure
+framework:
+1. choose specific market symbol from watchlist
+2. analyze market structure and adding labels and tags for swing points or specific price actions also determine market interaday directional bias (HTF)
 3. specify trading range correctly in HTF and draw/update trading range box
-4. drawing every possible scenarios within trading range,adding labels and tags for specific price action
-5. find and draw possible HTF trend reversal POI  above and below current market price if HTF trend is bullish find bearish POI  in higher prices and same for HTF bearish trend in lower prices
+4. drawing every possible scenarios within trading range
+5. find and draw possible ETF trend reversal POI above or below current market price based on directional bias of HTF structure if HTF trend is bullish find bearish POI in higher prices and same for HTF bearish trend in lower prices
 6. wait for HTF OTE (min 0.78 - max 0.88) or HTF rejection POI with proper conditions
 7. switch to LTF and wait for valid market structure break
 8. set limit order on LTF OTE (min 0.78 - max 0.88) or LTF rejection POI with proper conditions
@@ -16,9 +19,15 @@ process:
 
 
 
+
+
+
 warns:
 1. only enter into the trades based on pullbacks if price reached to HTF OTE (min 0.78 - max 0.88) fib levels of its movement in HTF structure (discount zone for long , premium zone for short) 
 2. for safer trades we can wait for FLIP pullback instead of CHOCH pullback since it actually confirms trend shift
+3. we only use ETF to find POI for potential HTF trend reversal and also observe market orderflow in bigger picture to see where it's going to in coming weeks
+4. when there is obvious liquidity near POI we should wait for liquidity to be taken then open the position
+5. we only open position when price exacly touches POI even with a wick otherwise we don't get into the new position
 
 
 refining POI process:
@@ -28,8 +37,10 @@ refining POI process:
 
 
 
+
 stop loss:
-1. stop losses can be set based on LTF OTE/POI also for safer trades we can set based on MTF or HTF OTE/POI but leads to slightly bigger stop losses and lower R:R ratio
+1. stop losses can be set based on LTF OTE/POI also for safer trades we can set based on HTF/MTF OTE/POI but leads to slightly bigger stop losses and lower R:R ratio
+2. we can move stop loss to breakeven price after structure FLIP happens in LTF
 
 trade times:
 1. london session is good choice for regular trades because of low momentums and much less liquidity grab and stop hunt

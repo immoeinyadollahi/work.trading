@@ -1,1 +1,3 @@
-for both CHOCH and BOS they will be valid only if candle close happens on previous swing high or low otherwise it will be treated as liquidity grab or sl hunt
+1. for both CHOCH and BOS they will be valid only if candle close happens on previous swing high or low otherwise it will be treated as liquidity grab or sl hunt
+
+2. for safer trades both CHOCH & BOS must be created with strong momentum candles and good candle body in order to be treated as real structure break

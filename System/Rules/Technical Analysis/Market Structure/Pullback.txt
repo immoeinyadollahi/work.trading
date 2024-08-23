@@ -1,3 +1,15 @@
 valid swing pullback potential properties:
 1. retraces atleast 50% of the current wave movement (discount/premium zone)	
 	otherwise it will not treated as a valid pullback within the swing and it will be considered as internal structure pullback
+	
+2. three candles with opposite color of the trend close below/above each other
+	candle number 1 = first candle with opposite color of the trend which can be the candle that causes lowest or highest point or first candle that came after this candle
+	candle number 2 = first candle with opposite color of the trend that closes below/above of candle number 1
+	candle number 3 = candle with opposite color of the trend that closes below/above/above of candle number 2
+	
+	
+	ideas:
+	1. after creating new low/high if 3 candle rule submited any new lowest/highest low/high which is not closed and only wick, it will be actual low/high for BOS/CHOCH
+	
+	
+** we can combine properties to filter out invalid pullbacks

@@ -6,3 +6,4 @@ find and use different types of setups and models
 5. CIMERR	(Consolidation,Inducement,Manipulation,Expansion,Retracement,Reversal)		
 6. RIMC	(Range,Initiation,Mitigation,Continuation)		=		CERR
 7. RLIMC	(Range,Liquidation,Initiation,Mitigation,Continuation)		=		CMERR
+7. RILIMC	(Range,Inducement,Liquidation,Initiation,Mitigation,Continuation)		=		CIMERR
