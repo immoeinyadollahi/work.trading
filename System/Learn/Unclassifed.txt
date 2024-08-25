@@ -2,8 +2,13 @@
 
 
 smart money sources
-1. youtube
+	youtube
 	Cryptobo1,Mad Cryptoboi,SMC,Ardalan Safaie trader,trade_ams,فارکس منتورینگ,college spark,Lewis Kelly,NOT JUST A TRADE,Photon Trading,ETM FX,SMC Gelo
+	mentors
+	1. Photon Trading			* Main *
+	2. Lewis Kelly
+	3. Mad Cryptoboi
+	4. Cryptobo1
 
 
 learning topics
