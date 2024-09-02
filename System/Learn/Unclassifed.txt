@@ -3,12 +3,11 @@
 
 smart money sources
 	youtube
-	Cryptobo1,Mad Cryptoboi,SMC,Ardalan Safaie trader,trade_ams,فارکس منتورینگ,college spark,Lewis Kelly,NOT JUST A TRADE,Photon Trading,ETM FX,SMC Gelo
+	Cryptobo1,Mad Cryptoboi,SMC,Ardalan Safaie trader,trade_ams,فارکس منتورینگ,college spark,Lewis Kelly,NOT JUST A TRADE,Photon Trading,ETM FX,SMC Gelo,Waqar Asim
 	mentors
 	1. Photon Trading			* Main *
-	2. Lewis Kelly
-	3. Mad Cryptoboi
-	4. Cryptobo1
+	2. Waqar Asim				* Highly Recommended *
+	3. Lewis Kelly
 
 
 learning topics
@@ -23,6 +22,18 @@ learning topics
 3. setups and market maker patterns
 	personal RIMC method	->	NOT JUST A TRADE
 
+
+
+
+Waqar Asim
+1. use only M5 as HTF and M1 as LTF 
+2. using liquidity,inducements,timing session
+3. timing window & LTF confirmations as conditions needed to enter the position
+4. LTF 2 legs market structure entry model
+5. intrasession trading on daily cycle for quick trades with high RR 
+6. reading language of price and learn laws of the market
+7. time-based manipulation (sessions manipulations)
+---------------------------------------------
 Lewis Kelly
 1. box model for trading range
 2. swing structure is HTF market structure and internal structure is LTF market structure
@@ -71,6 +82,14 @@ Cryptoboi
 
 
 ------------------------------------------------------------
+
+
+
+M1 Timeframe
+1. Mastering M1 Timeframe As It Shows Market In More Accurate Prespective & Reveals Much Details Oppose To Higher Timeframes
+2. Market True Intentions Can Be Observed In More Explicit Approach Inside Of M1 Timeframe Than Higher Timeframes 
+
+
 
 High Probability CHOCH
 1. CHOCH created in LTF structure near HTF POI indicates potential trend reversal

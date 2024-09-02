@@ -4,13 +4,12 @@ Technical Analysis:
 3. Smart Money Chart Patterns/Setups
 4. Candlesticks Patterns
 5. Fib Levels 
-6. Order Blocks + Types
-7. Demand & Supply Zones + Types
-8. POI + Types
-9. FVG + Types
+6. Demand & Supply Zones + Types
+7. Order Blocks + Types
+8. FVG + Types
+9. Premium & Discount (PD Array) & EQL (Equilibrium) + Use Cases
 10. Liquidity + Types
-11. Premium & Discount (PD Array) & EQL (Equilibrium) + Use Cases
-12. Inducements (IDM) + Smart Money Traps
+11. Inducements (IDM) + Smart Money Traps
 
 
 Personality:
@@ -24,6 +23,7 @@ Personality:
 
 Process:
 1. Trading Plan
+2. Sessions + Killzones Trading
 
 
 
@@ -31,3 +31,29 @@ Most Important Topics To Master
 1. Market Structure (Enter Into The Positions In Correct Market Bias Or Same Direction Which Orderflow Is Going)
 2. Liquidity (Help To Survive From Smart Money Stop Hunting)
 3. Supply & Demand (Specifiy Optimal Stop-Loss,Take-Profit,Entry-Point)
++ 4. Multi Timeframe Analysis
++ 5. Inducements
++ 6. Sessions (Intrasession Trading Within Daily Cycle)
+
+
+
+
+Most Important Topics To Increase Win Rate And Avoid Smart Money Traps
+1. Liquidity (Fuel Of The Market To Move Price)
+2. Inducements (Fake Reactions / Fake Intentions)
+3. Sessions (Timing Window)
+
+** Market Runs On Liquidity, Even Without S&D And Market Structure Market Moves. Liquidity Is First , Market Uses Inducements To Stack Up Liquidities Then Grab All Of The Liquidities Before Its Actual Movement
+** Market Moves From One Liquidity Zone To Another Liquidity Zone While Inviting & Inducing All Types Of Traders With Every Type Of Strategy
+** Market Also Shows Various Types Of Reactions And Changes In Favour Of Traders (In Any Type) Before Taking All Of Them Out Of The Market And Moving To Desired Point  
+
+
+
+
+
+Trading Style:		SMC + LIT
+
+
+
+
+

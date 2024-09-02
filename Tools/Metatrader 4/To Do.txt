@@ -1,0 +1,1 @@
+1. add journal expert or trades importer from mt4 to saving time by reducing trading and journaling process 

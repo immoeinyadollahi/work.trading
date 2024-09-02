@@ -1,5 +1,5 @@
 Types Of Market Structure:
-1. Swing			->	Main Prespective
+1. Swing			->	Narrative
 2. Internal		->	Fullfills Swing Structure Objectives
 3. Fractal			->	Fullfills Internal Structure Objectives
 

@@ -45,5 +45,5 @@ stop loss:
 trade times:
 1. london session is good choice for regular trades because of low momentums and much less liquidity grab and stop hunt
 2. newyork session is good choice for fast scalping and getting fast target or stop loss because of high momentums and liquidity and has lots of liquidity grab and stop hunt
-
+*** Only Trade On Session Times Not Outside Of Session Windows ***
 

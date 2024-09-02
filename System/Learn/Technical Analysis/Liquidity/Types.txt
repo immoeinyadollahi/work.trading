@@ -13,6 +13,8 @@ every where retailers stop losses or breakout/breakdown orders might be placed, 
 logical highs and lows which traders put their stop losses will be treated as liquidity pool
 its all about understanding other traders phsychology like when to open/close positions and where to put stop losses
 
+** market will target all traders with any type of strategy or trading styles even smart money traders to grab their liquidity **
+
 
 order types:
 1. stop losses
