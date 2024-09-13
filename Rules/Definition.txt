@@ -1,0 +1,6 @@
+1. we use rule-based (mechanical,systematic) trading/system/strategy instead of using discretions or discretionary trading
+
+2. rules cause producing much more reliable and better results and lead to higher probability positive expectancy
+
+3. rules part of trade execution is trading plan which rules get listed in it and they must be evaluated before executing new trade (checklist)
+
