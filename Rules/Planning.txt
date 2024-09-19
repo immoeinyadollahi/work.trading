@@ -1,3 +1,10 @@
-1. set rules for each part of system like strategy,risk & money management and psychology
+1. قوانین و مقررات پلن باید برای هر بخش از این سیستم ایجاد شود یعنی برای استراتژی،مدیریت ریسک و سرمایه و روانشناسی
+
+2. قوانین واضح و منطقی (بصورت سوال کردن و پرسشی) در مورد تصمیماتی که قرار است گرفته شود و تحت تاثیر وضعیت روحی،روانی و همچنین جسمی قرار میگیرد که قبل از تصمیم گیری اشتباه و احساسی از انجام آن خودداری شود.
+سوالاتی مثل آیا این معامله برای جبران ضرر معامله قبلیه و از روی هیجان و عصبانیت داری این معامله رو انجام میدی؟ یا مثل آیا سه تا معامله قبلی پشت سر هم سود بود و الان خیلی خوشحالی و از روی ذوق و شوق زیاد فکر میکنی این معامله هم سود میشه و اعتماد بنفست خیلی رفته بالا و احساس غرور داری؟
+یا مثل آیا توی معامله قبلی اشتباهی کردی یا خلاف قانون عمل کردی و هنوز بر طرفش نکردی و اومدی میخوای دوباره همون اشتباهی مرتکب می شی؟ یا تحت تاثیر حالات و احساسات معامله قبلی و اشتباهات معاملات قبلی الان داری تصمیم میگیری؟
 
 2. have fixed rules for asking psychology requirements (state of confidence,fear,greed,physical body,...)
+
+3. anticipate and avoid possible emotions & psychology errors before,after or during executing new trades based on current account statement or previous trades result
+   in order to avoid possible emotional decisions/actions
