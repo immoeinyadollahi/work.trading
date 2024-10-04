@@ -4,3 +4,7 @@
    also in case of failure in prop firm accounts we didn't just waste our time
    
 3. use multiple accounts across multiple different prop firms in case of scamming or restriction problems
+   optional: split your trade positions into 2 or more distict prop firm accounts and advance each of them in parallel
+   optional: split your risk into multiple accounts in multiple prop firms
+
+4. use different prop firm each time for withdrawal in case of scamming or restriction problems

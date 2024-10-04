@@ -17,3 +17,8 @@
    use lower risks for lower probability trades when your in heavy drawdown
    
 7. after each refinement in your profitable edge , like before start with lower risk levels and raise it gradually after getting comfortable with new tweaks and results
+
+
+* 8. you can also use fixed risk amount instead of dynamic risk management. 
+ * consistency & sustainability in the market are more important than risk management system. 
+ * you can use any type of risk management system which fits with your personality
